@@ -1,0 +1,138 @@
+### Start Record
+name:015; value:str:000 -: birthDateString=
+name:009; value:int:004 -: startYear=2020
+name:003; value:int:001 -: sex=0
+name:016; value:str:003 -: recordСardNumber=ппп
+name:005; value:str:000 -: group=
+name:010; value:str:000 -: department=
+name:007; value:str:000 -: faculty=
+name:010; value:str:000 -: middleName=
+name:004; value:str:005 -: name=Игорь
+name:007; value:str:007 -: surName=Филатов
+### End Record
+### Start Record
+name:015; value:str:000 -: birthDateString=
+name:009; value:int:001 -: startYear=0
+name:003; value:int:001 -: sex=0
+name:016; value:str:003 -: recordСardNumber=ыыы
+name:005; value:str:000 -: group=
+name:010; value:str:000 -: department=
+name:007; value:str:000 -: faculty=
+name:010; value:str:000 -: middleName=
+name:004; value:str:005 -: name=Антон
+name:007; value:str:000 -: surName=
+### End Record
+### Start Record
+name:015; value:str:000 -: birthDateString=
+name:009; value:int:001 -: startYear=0
+name:003; value:int:001 -: sex=0
+name:016; value:str:003 -: recordСardNumber=ФФФ
+name:005; value:str:000 -: group=
+name:010; value:str:000 -: department=
+name:007; value:str:000 -: faculty=
+name:010; value:str:000 -: middleName=
+name:004; value:str:004 -: name=ЯЛТА
+name:007; value:str:000 -: surName=
+### End Record
+### Start Record
+name:018; value:str:001 -: examsResults_1_0_m=2
+name:018; value:str:007 -: examsResults_1_0_n=История
+name:018; value:str:001 -: examsResults_0_0_m=3
+name:018; value:str:011 -: examsResults_0_0_n=Физкультура
+name:015; value:str:009 -: birthDateString=30.5.2002
+name:009; value:int:004 -: startYear=2020
+name:003; value:int:001 -: sex=0
+name:016; value:str:006 -: recordСardNumber=20БА78
+name:005; value:str:010 -: group=БАСО-03-20
+name:010; value:str:004 -: department=КБ-1
+name:007; value:str:009 -: faculty=РТУ МИРЭА
+name:010; value:str:008 -: middleName=Димченко
+name:004; value:str:004 -: name=Анна
+name:007; value:str:009 -: surName=Сергеевна
+### End Record
+### Start Record
+name:018; value:str:001 -: examsResults_6_0_m=4
+name:018; value:str:009 -: examsResults_6_0_n=Рисование
+name:018; value:str:001 -: examsResults_5_0_m=5
+name:018; value:str:015 -: examsResults_5_0_n=Хороводоведение
+name:018; value:str:001 -: examsResults_4_0_m=2
+name:018; value:str:008 -: examsResults_4_0_n=Плавание
+name:018; value:str:001 -: examsResults_3_0_m=4
+name:018; value:str:012 -: examsResults_3_0_n=Правоведение
+name:018; value:str:001 -: examsResults_2_0_m=3
+name:018; value:str:010 -: examsResults_2_0_n=Фихтование
+name:018; value:str:001 -: examsResults_1_0_m=3
+name:018; value:str:010 -: examsResults_1_0_n=Арифметика
+name:018; value:str:001 -: examsResults_0_0_m=5
+name:018; value:str:008 -: examsResults_0_0_n=Геология
+name:015; value:str:010 -: birthDateString=21.10.1997
+name:009; value:int:004 -: startYear=2016
+name:003; value:int:001 -: sex=1
+name:016; value:str:007 -: recordСardNumber=16A90BD
+name:005; value:str:010 -: group=БАСО-05-16
+name:010; value:str:004 -: department=КБ-1
+name:007; value:str:009 -: faculty=РТУ МИРЭА
+name:010; value:str:012 -: middleName=Абдуллохович
+name:004; value:str:004 -: name=Иван
+name:007; value:str:008 -: surName=Павлович
+### End Record
+### Start Record
+name:018; value:str:001 -: examsResults_2_1_m=2
+name:018; value:str:009 -: examsResults_2_1_n=Геометрия
+name:018; value:str:001 -: examsResults_2_0_m=0
+name:018; value:str:005 -: examsResults_2_0_n=Линал
+name:018; value:str:001 -: examsResults_1_2_m=2
+name:018; value:str:009 -: examsResults_1_2_n=Кулинария
+name:018; value:str:001 -: examsResults_1_1_m=4
+name:018; value:str:010 -: examsResults_1_1_n=Английский
+name:018; value:str:001 -: examsResults_1_0_m=5
+name:018; value:str:010 -: examsResults_1_0_n=Математика
+name:018; value:str:001 -: examsResults_0_1_m=5
+name:018; value:str:014 -: examsResults_0_1_n=Обществознание
+name:018; value:str:001 -: examsResults_0_0_m=4
+name:018; value:str:022 -: examsResults_0_0_n=Языки программирования
+name:015; value:str:010 -: birthDateString=24.12.2001
+name:009; value:int:004 -: startYear=2020
+name:003; value:int:001 -: sex=0
+name:016; value:str:000 -: recordСardNumber=
+name:005; value:str:010 -: group=БАСО-01-18
+name:010; value:str:004 -: department=КБ-1
+name:007; value:str:009 -: faculty=РТУ МИРЭА
+name:010; value:str:010 -: middleName=Вячеславна
+name:004; value:str:005 -: name=Мария
+name:007; value:str:007 -: surName=Фоменко
+### End Record
+### Start Record
+name:018; value:str:001 -: examsResults_0_2_m=2
+name:018; value:str:008 -: examsResults_0_2_n=Аэробика
+name:018; value:str:001 -: examsResults_0_1_m=5
+name:018; value:str:022 -: examsResults_0_1_n=Языки программирования
+name:018; value:str:001 -: examsResults_0_0_m=5
+name:018; value:str:010 -: examsResults_0_0_n=Математика
+name:015; value:str:010 -: birthDateString=24.12.2001
+name:009; value:int:004 -: startYear=2020
+name:003; value:int:001 -: sex=1
+name:016; value:str:007 -: recordСardNumber=20Б0850
+name:005; value:str:010 -: group=БАСО-02-20
+name:010; value:str:004 -: department=КБ-1
+name:007; value:str:009 -: faculty=РТУ МИРЭА
+name:010; value:str:014 -: middleName=Константинович
+name:004; value:str:004 -: name=Илья
+name:007; value:str:009 -: surName=Черданцев
+### End Record
+### Start Record
+name:018; value:str:001 -: examsResults_0_1_m=3
+name:018; value:str:008 -: examsResults_0_1_n=Живопись
+name:018; value:str:001 -: examsResults_0_0_m=2
+name:018; value:str:007 -: examsResults_0_0_n=Фистинг
+name:015; value:str:009 -: birthDateString=28.9.2001
+name:009; value:int:004 -: startYear=2019
+name:003; value:int:001 -: sex=1
+name:016; value:str:007 -: recordСardNumber=20В0755
+name:005; value:str:010 -: group=БАСО-03-19
+name:010; value:str:004 -: department=КБ-1
+name:007; value:str:009 -: faculty=РТУ МИРЭА
+name:010; value:str:010 -: middleName=Евгеньевич
+name:004; value:str:006 -: name=Михаил
+name:007; value:str:007 -: surName=Буранов
+### End Record
